@@ -1,6 +1,7 @@
 Telco Customer Churn Prediction
 
 This project is a machine learning classification task aimed at predicting customer churn in the telecom industry. Using a dataset from Kaggle with over 7,000 customer records and 21 features, we explore patterns in customer behavior and use five popular classification models to build, evaluate, and tune a robust prediction system.
+
 📁 Dataset Overview
 - Source: [Kaggle Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
 - Format: CSV
